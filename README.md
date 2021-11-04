@@ -1,4 +1,4 @@
-👋 Hi, I’m @Larsen2328
+👋 Hi, I’m @Larsen2328 aka Julien Trillard
 
 __Welcome!__
 
