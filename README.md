@@ -5,7 +5,7 @@ __Welcome!__
 You can also follow me on [LinkedIn](https://www.linkedin.com/in/julien-trillard-a8866311b/)
 
 ### About me:
-I'm teacher in development at [ENI Ecole Informatique](https://www.eni-ecole.fr/). I work with Java, JavaScript (Angular), HTML, CSS, SQL, Python, ...
+I'm an educational engineer at [ENI Ecole Informatique](https://www.eni-ecole.fr/). I work with Java, JavaScript (Angular), HTML, CSS, SQL, Python, ...
 
 I love programming language and specially Flutter. 
 
