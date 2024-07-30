@@ -9,7 +9,7 @@ I'm an educational engineer at [ENI Ecole Informatique](https://www.eni-ecole.fr
 
 I love programming language and specially Flutter. 
 
-<img src="https://docs.flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png" alt="Logo de Flutter" width="100"/>
+<img src="[https://docs.flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png](https://docs.flutter.dev/assets/images/branding/flutter/logo+text/horizontal/default.svg)" alt="Logo de Flutter" width="100"/>
 
 I'm author of the book "Flutter, développez vos applications multiplateformes avec Dart". You could find the book on the official documentation of Flutter here : [Flutter book's](https://flutter.dev/docs/resources/books). 
 
